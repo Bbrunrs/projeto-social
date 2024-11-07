@@ -5,6 +5,10 @@
     padding: 0px;
 }
 
+body{
+    background-color: #121212;
+}
+
 img{
     width: 100vw;
 }
